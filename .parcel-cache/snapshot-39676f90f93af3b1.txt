@@ -1,4 +1,4 @@
-6143
+6142
 121C:\Users\User\Documents\course\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\1-mergeAtrule.js133542473635433232 0
 58C:\Users\User\Documents\course\node_modules\clone\clone.js133542473637063349 0
 60C:\Users\User\Documents\course\node_modules\semver\range.bnf133542473635093203 0
@@ -93,7 +93,6 @@
 55C:\Users\User\Documents\course\node_modules\detect-libc133542473637503384 1
 69C:\Users\User\Documents\course\node_modules\ordered-binary\index.d.ts133542473640243591 0
 77C:\Users\User\Documents\course\node_modules\css-tree\lib\syntax\node\Value.js133542473655579928 0
-40C:\Users\User\Documents\course\script.js133542590914362276 0
 88C:\Users\User\Documents\course\node_modules\caniuse-lite\data\features\css-snappoints.js133542473654614657 0
 35C:\Users\User\Documents\course\scss133542561459133667 1
 61C:\Users\User\Documents\course\node_modules\binary-extensions133542477299726420 1
