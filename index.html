@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, user-scalable= no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
 <link rel="stylesheet" href="scss/style.css">
 <title>project</title>
 </head>
@@ -189,8 +189,6 @@ risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam qu
         <!-- If we need pagination -->
         <div class="swiper-pagination">
         </div>
-        <div class="swiper-pagination">
-        </div>
       
         <!-- If we need navigation buttons -->
         <!-- <div class="swiper-button-prev"></div> -->
@@ -228,8 +226,10 @@ risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam qu
 </div>
 <div class="copyright"><p>Copyright © 2015 ActiveBox. All Rights ReservedMade with by Kamal Chaneman</p></div>
 </footer>
-<script src="https://unpkg.com/swiper/swiper-bundle.min.js">
-  const swiper = new Swiper('.swiper-container', {
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js">
+</script>
+<script>
+  const swiper = new Swiper('.swiper', {
     direction: 'horizontal',
     loop: true,
     pagination: {

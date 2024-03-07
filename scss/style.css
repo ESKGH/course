@@ -535,13 +535,14 @@ margin-bottom: 31px;
     font-size: 18px;
     font-weight: 400;
     line-height: 21px;
-    letter-spacing: 0%;
+    
     text-align: center;
     text-transform: capitalize;
     background: rgb(44, 49, 84);
 }
 .copyright p{
     width: 370px;
+    color: rgb(128, 128, 128);
 }
 
 @media (max-device-width:1120px){
@@ -619,6 +620,6 @@ margin-bottom: 31px;
         width: 100%;
     }
     .team_card_socials{
-        margin-top: 0;
+        margin-top: 0                 ;
     }
 }
