@@ -311,20 +311,6 @@
   display: flex;
 }
 
-@media (device-width <= 1120px) {
-  .our_team {
-    justify-content: space-between;
-    padding-top: 114px;
-    padding-bottom: 114px;
-  }
-
-  .team_card {
-    flex-direction: column;
-    width: calc(25% - 15px);
-    display: flex;
-  }
-}
-
 .team_card_img {
   width: 100%;
   max-height: 270px;
@@ -606,6 +592,79 @@
     max-width: 1024px;
     padding: 0 20px;
     display: flex;
+  }
+
+  .our_team {
+    justify-content: space-between;
+    padding-top: 114px;
+    padding-bottom: 114px;
+  }
+
+  .team_card {
+    flex-direction: column;
+    width: calc(25% - 15px);
+    display: flex;
+  }
+}
+
+@media (device-width <= 500px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .container_front {
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+
+  .button {
+    width: 280px;
+    height: 60px;
+  }
+
+  .container_features {
+    flex-direction: column;
+  }
+
+  .features_card {
+    width: 100%;
+  }
+
+  .works {
+    flex-direction: row;
+  }
+
+  .works_img {
+    width: 50%;
+  }
+
+  .our_team {
+    flex-direction: column;
+  }
+
+  .team_card {
+    width: 100%;
+  }
+
+  .download_button {
+    width: 280px;
+    height: 60px;
+  }
+
+  .footer {
+    height: fit-content;
+  }
+
+  .footer_card {
+    width: 100%;
+    margin: 0 auto 30px;
+    padding: 20px 0 0;
+  }
+
+  .team_card_socials {
+    margin-top: 0;
   }
 }
 /*# sourceMappingURL=index.1050fa94.css.map */
