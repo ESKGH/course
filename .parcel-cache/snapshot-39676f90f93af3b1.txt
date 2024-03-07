@@ -1,4 +1,4 @@
-6140
+6143
 121C:\Users\User\Documents\course\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\1-mergeAtrule.js133542473635433232 0
 58C:\Users\User\Documents\course\node_modules\clone\clone.js133542473637063349 0
 60C:\Users\User\Documents\course\node_modules\semver\range.bnf133542473635093203 0
@@ -31,7 +31,7 @@
 78C:\Users\User\Documents\course\node_modules\@parcel\reporter-cli\src\render.js133542473640123576 0
 54C:\Users\User\Documents\course\node_modules\source-map133542473640963643 1
 87C:\Users\User\Documents\course\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133542473642123736 0
-35C:\Users\User\Documents\course\dist133542550374467173 1
+35C:\Users\User\Documents\course\dist133542561566731250 1
 93C:\Users\User\Documents\course\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133542473651244389 0
 65C:\Users\User\Documents\course\node_modules\csso\dist\csso.esm.js133542473647534121 0
 105C:\Users\User\Documents\course\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133542473636543308 1
@@ -51,11 +51,11 @@
 49C:\Users\User\Documents\course\node_modules\clone133542473637553404 1
 103C:\Users\User\Documents\course\node_modules\css-select\node_modules\dom-serializer\lib\esm\package.json133542473638143434 0
 92C:\Users\User\Documents\course\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE133542473639323517 0
-55C:\Users\User\Documents\course\dist\work_5.4ac293cf.png133542548865696123 0
+55C:\Users\User\Documents\course\dist\work_5.4ac293cf.png133542561566111219 0
 113C:\Users\User\Documents\course\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config\mix.js133542473648914227 0
 76C:\Users\User\Documents\course\node_modules\@swc\helpers\_\_set_prototype_of133542473656207686 1
 49C:\Users\User\Documents\course\node_modules\json5133542473640223585 1
-41C:\Users\User\Documents\course\index.html133542550373587099 0
+41C:\Users\User\Documents\course\index.html133542561562000923 0
 70C:\Users\User\Documents\course\node_modules\utility-types\package.json133542473638093432 0
 95C:\Users\User\Documents\course\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133542473642353756 0
 97C:\Users\User\Documents\course\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js133542473641883720 0
@@ -81,7 +81,7 @@
 77C:\Users\User\Documents\course\node_modules\css-tree\lib\syntax\node\Value.js133542473655579928 0
 40C:\Users\User\Documents\course\script.js133542546983857201 0
 88C:\Users\User\Documents\course\node_modules\caniuse-lite\data\features\css-snappoints.js133542473654614657 0
-35C:\Users\User\Documents\course\scss133542470582820741 1
+35C:\Users\User\Documents\course\scss133542561459133667 1
 119C:\Users\User\Documents\course\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\properties.schema.json133542473641753697 0
 103C:\Users\User\Documents\course\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133542473644683918 0
 93C:\Users\User\Documents\course\node_modules\csso\node_modules\css-tree\lib\tokenizer\index.js133542473653614578 0
@@ -108,7 +108,6 @@
 73C:\Users\User\Documents\course\node_modules\@swc\helpers\cjs\_type_of.cjs133542473648794216 0
 68C:\Users\User\Documents\course\node_modules\term-size\vendor\windows133542473637283367 1
 77C:\Users\User\Documents\course\node_modules\caniuse-lite\data\features\mp3.js133542473660544980 0
-46C:\Users\User\Documents\course\scss\style.scss133542550232157866 0
 84C:\Users\User\Documents\course\node_modules\htmlnano\lib\modules\removeUnusedCss.cjs133542473643023810 0
 69C:\Users\User\Documents\course\node_modules\source-map-js\lib\util.js133542473639963575 0
 47C:\Users\User\Documents\course\scss\bgs\img.png133541532858923415 0
@@ -252,7 +251,7 @@
 77C:\Users\User\Documents\course\node_modules\@parcel\transformer-image\LICENSE133542473634473161 0
 66C:\Users\User\Documents\course\node_modules\supports-color\license133542473634383165 0
 82C:\Users\User\Documents\course\node_modules\caniuse-lite\data\features\wordwrap.js133542473665628831 0
-62C:\Users\User\Documents\course\dist\linkedin_icon.7f6f6853.svg133542548864526029 0
+62C:\Users\User\Documents\course\dist\linkedin_icon.7f6f6853.svg133542561565801207 0
 99C:\Users\User\Documents\course\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json133542473638043423 0
 71C:\Users\User\Documents\course\node_modules\@parcel\utils\src\config.js133542473639633532 0
 67C:\Users\User\Documents\course\node_modules\posthtml-render\license133542473634403160 0
@@ -569,7 +568,7 @@
 52C:\Users\User\Documents\course\node_modules\posthtml133542473637283367 1
 95C:\Users\User\Documents\course\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.1133542473642693774 0
 77C:\Users\User\Documents\course\node_modules\postcss-value-parser\lib\index.js133542473635233225 0
-55C:\Users\User\Documents\course\dist\woman3.9628b796.png133542548865686124 0
+55C:\Users\User\Documents\course\dist\woman3.9628b796.png133542561566071208 0
 108C:\Users\User\Documents\course\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.d.ts133542473638503453 0
 95C:\Users\User\Documents\course\node_modules\@swc\helpers\cjs\_tagged_template_literal_loose.cjs133542473648174172 0
 84C:\Users\User\Documents\course\node_modules\csso\node_modules\css-tree\lib\convertor133542473653234550 1
@@ -1246,7 +1245,7 @@
 68C:\Users\User\Documents\course\node_modules\js-yaml\lib\type\null.js133542473642413774 0
 60C:\Users\User\Documents\course\node_modules\svgo\lib\svgo.js133542473642563763 0
 69C:\Users\User\Documents\course\node_modules\htmlnano\lib\htmlnano.cjs133542473639483528 0
-55C:\Users\User\Documents\course\dist\icon_1.b44a051e.svg133542548865456105 0
+55C:\Users\User\Documents\course\dist\icon_1.b44a051e.svg133542561566611282 0
 64C:\Users\User\Documents\course\node_modules\svgo\lib\svgo\coa.js133542473642773767 0
 81C:\Users\User\Documents\course\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133542473642933782 0
 88C:\Users\User\Documents\course\node_modules\css-tree\cjs\definition-syntax\tokenizer.cjs133542473650684354 0
@@ -1713,7 +1712,7 @@
 81C:\Users\User\Documents\course\node_modules\lightningcss-win32-x64-msvc\README.md133542473635703245 0
 61C:\Users\User\Documents\course\node_modules\@parcel\cache\lib133542473640993638 1
 75C:\Users\User\Documents\course\node_modules\caniuse-lite\data\regions\IN.js133542473658487895 0
-52C:\Users\User\Documents\course\dist\man.adba9066.png133542548865686124 0
+52C:\Users\User\Documents\course\dist\man.adba9066.png133542561566061197 0
 70C:\Users\User\Documents\course\node_modules\picomatch\lib\picomatch.js133542473637263377 0
 106C:\Users\User\Documents\course\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\Number.js133542473644613907 0
 66C:\Users\User\Documents\course\node_modules\picomatch\lib\utils.js133542473638373455 0
@@ -1828,7 +1827,7 @@
 90C:\Users\User\Documents\course\node_modules\csso\node_modules\css-tree\lib\syntax\function133542473655354698 1
 86C:\Users\User\Documents\course\node_modules\caniuse-lite\data\features\imagecapture.js133542473658407897 0
 116C:\Users\User\Documents\course\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\README.md133542473638083427 0
-57C:\Users\User\Documents\course\dist\index.672d4772.js.map133542548864896056 0
+57C:\Users\User\Documents\course\dist\index.672d4772.js.map133542561566251227 0
 63C:\Users\User\Documents\course\node_modules\nth-check\README.md133542473641813715 0
 77C:\Users\User\Documents\course\node_modules\@swc\helpers\cjs\_ts_decorate.cjs133542473648554193 0
 73C:\Users\User\Documents\course\node_modules\msgpackr-extract\package.json133542473637783403 0
@@ -2203,7 +2202,7 @@
 99C:\Users\User\Documents\course\node_modules\@swc\helpers\_\_class_apply_descriptor_get\package.json133542473653844657 0
 103C:\Users\User\Documents\course\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133542473645403970 0
 63C:\Users\User\Documents\course\node_modules\js-yaml\lib\type.js133542473643723834 0
-55C:\Users\User\Documents\course\dist\icon_6.e891f0b0.svg133542548864526029 0
+55C:\Users\User\Documents\course\dist\icon_6.e891f0b0.svg133542561565801207 0
 58C:\Users\User\Documents\course\node_modules\@parcel\fs\lib133542473641783701 1
 99C:\Users\User\Documents\course\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h133542473650634371 0
 90C:\Users\User\Documents\course\node_modules\caniuse-lite\data\features\beforeafterprint.js133542473647164102 0
@@ -2945,7 +2944,7 @@
 84C:\Users\User\Documents\course\node_modules\dom-serializer\node_modules\entities\lib133542473641403680 1
 88C:\Users\User\Documents\course\node_modules\dom-serializer\node_modules\entities\LICENSE133542473634533169 0
 93C:\Users\User\Documents\course\node_modules\dom-serializer\node_modules\entities\package.json133542473639083500 0
-62C:\Users\User\Documents\course\dist\facebook_icon.30d90389.svg133542548864526029 0
+62C:\Users\User\Documents\course\dist\facebook_icon.30d90389.svg133542561565801207 0
 122C:\Users\User\Documents\course\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\definition-syntax\generate.js133542473646014015 0
 100C:\Users\User\Documents\course\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts.map133542473639793553 0
 96C:\Users\User\Documents\course\node_modules\@swc\helpers\_\_class_private_field_set\package.json133542473654434644 0
@@ -3386,7 +3385,7 @@
 79C:\Users\User\Documents\course\node_modules\css-tree\lib\syntax\node\Comment.js133542473651964473 0
 87C:\Users\User\Documents\course\node_modules\css-tree\lib\syntax\node\DeclarationList.js133542473652754515 0
 80C:\Users\User\Documents\course\node_modules\caniuse-lite\dist\unpacker\agents.js133542473640193579 0
-55C:\Users\User\Documents\course\dist\woman2.bfcc8b1c.png133542548864736037 0
+55C:\Users\User\Documents\course\dist\woman2.bfcc8b1c.png133542561566091205 0
 81C:\Users\User\Documents\course\node_modules\css-tree\lib\syntax\node\Dimension.js133542473652824506 0
 80C:\Users\User\Documents\course\node_modules\css-tree\lib\syntax\node\Function.js133542473653004535 0
 79C:\Users\User\Documents\course\node_modules\css-tree\lib\syntax\config\lexer.js133542473653974599 0
@@ -3517,7 +3516,7 @@
 87C:\Users\User\Documents\course\node_modules\caniuse-lite\data\features\css-paint-api.js133542473654034603 0
 96C:\Users\User\Documents\course\node_modules\caniuse-lite\data\features\getelementsbyclassname.js133542473657677831 0
 84C:\Users\User\Documents\course\node_modules\css-tree\cjs\syntax\node\Declaration.cjs133542473643983873 0
-55C:\Users\User\Documents\course\dist\slide1.aa2efad4.png133542548865886124 0
+55C:\Users\User\Documents\course\dist\slide1.aa2efad4.png133542561566251227 0
 95C:\Users\User\Documents\course\node_modules\css-select\node_modules\domutils\lib\index.d.ts.map133542473643253805 0
 117C:\Users\User\Documents\course\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\AttributeSelector.js133542473639933563 0
 80C:\Users\User\Documents\course\node_modules\css-tree\cjs\syntax\node\Feature.cjs133542473644943926 0
@@ -3970,7 +3969,7 @@
 75C:\Users\User\Documents\course\node_modules\caniuse-lite\data\regions\AF.js133542473639163518 0
 93C:\Users\User\Documents\course\node_modules\caniuse-lite\data\features\css-optional-pseudo.js133542473653794599 0
 75C:\Users\User\Documents\course\node_modules\caniuse-lite\data\regions\AG.js133542473639483528 0
-60C:\Users\User\Documents\course\dist\work_normal.b069e392.png133542548865646115 0
+60C:\Users\User\Documents\course\dist\work_normal.b069e392.png133542561566011209 0
 75C:\Users\User\Documents\course\node_modules\caniuse-lite\data\regions\AL.js133542473640733616 0
 79C:\Users\User\Documents\course\node_modules\caniuse-lite\data\regions\alt-as.js133542473641423678 0
 81C:\Users\User\Documents\course\node_modules\@swc\helpers\esm\_array_with_holes.js133542473649634281 0
@@ -4119,7 +4118,7 @@
 75C:\Users\User\Documents\course\node_modules\caniuse-lite\data\regions\TJ.js133542473664225242 0
 101C:\Users\User\Documents\course\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\index.js133542473647434121 0
 75C:\Users\User\Documents\course\node_modules\caniuse-lite\data\regions\TK.js133542473664245240 0
-61C:\Users\User\Documents\course\dist\twitter_icon.34c8670e.svg133542548865466109 0
+61C:\Users\User\Documents\course\dist\twitter_icon.34c8670e.svg133542561566621252 0
 75C:\Users\User\Documents\course\node_modules\caniuse-lite\data\regions\TN.js133542473664365275 0
 75C:\Users\User\Documents\course\node_modules\caniuse-lite\data\regions\TR.js133542473664415261 0
 75C:\Users\User\Documents\course\node_modules\caniuse-lite\data\regions\TT.js133542473664485260 0
@@ -4836,7 +4835,7 @@
 100C:\Users\User\Documents\course\node_modules\@swc\helpers\cjs\_class_apply_descriptor_destructure.cjs133542473640313584 0
 92C:\Users\User\Documents\course\node_modules\@swc\helpers\cjs\_class_apply_descriptor_set.cjs133542473640793642 0
 95C:\Users\User\Documents\course\node_modules\@swc\helpers\cjs\_class_apply_descriptor_update.cjs133542473641033648 0
-55C:\Users\User\Documents\course\dist\work_8.0ef85aa7.png133542548864776069 0
+55C:\Users\User\Documents\course\dist\work_8.0ef85aa7.png133542561566001189 0
 109C:\Users\User\Documents\course\node_modules\@swc\helpers\cjs\_class_check_private_static_field_descriptor.cjs133542473641673684 0
 101C:\Users\User\Documents\course\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_set.cjs133542473643933860 0
 96C:\Users\User\Documents\course\node_modules\@swc\helpers\cjs\_class_extract_field_descriptor.cjs133542473641843706 0
@@ -5136,7 +5135,7 @@
 89C:\Users\User\Documents\course\node_modules\@parcel\transformer-css\src\CSSTransformer.js133542473636173289 0
 118C:\Users\User\Documents\course\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Atrule.js133542473637423391 0
 73C:\Users\User\Documents\course\node_modules\@parcel\transformer-babel\lib133542473641493676 1
-55C:\Users\User\Documents\course\dist\icon_5.6de7542e.svg133542548865386089 0
+55C:\Users\User\Documents\course\dist\icon_5.6de7542e.svg133542561566621252 0
 82C:\Users\User\Documents\course\node_modules\@parcel\transformer-babel\package.json133542473641903703 0
 79C:\Users\User\Documents\course\node_modules\@parcel\transformer-babel\README.md133542473642093738 0
 73C:\Users\User\Documents\course\node_modules\@parcel\transformer-babel\src133542473641683700 1
@@ -5853,7 +5852,7 @@
 62C:\Users\User\Documents\course\node_modules\@parcel\events\src133542473639593537 1
 63C:\Users\User\Documents\course\node_modules\@parcel\events\test133542473639843560 1
 76C:\Users\User\Documents\course\node_modules\@parcel\events\src\Disposable.js133542473636043270 0
-55C:\Users\User\Documents\course\dist\icon_4.fc43b3a9.svg133542548864526029 0
+55C:\Users\User\Documents\course\dist\icon_4.fc43b3a9.svg133542561565801207 0
 71C:\Users\User\Documents\course\node_modules\@parcel\events\src\index.js133542473638643465 0
 66C:\Users\User\Documents\course\node_modules\@parcel\diagnostic\lib133542473638323443 1
 84C:\Users\User\Documents\course\node_modules\@parcel\diagnostic\test\markdown.test.js133542473637573414 0
@@ -6123,19 +6122,23 @@
 45C:\Users\User\Documents\course\img\work_6.png133535391200000000 0
 45C:\Users\User\Documents\course\img\work_7.png133535390520000000 0
 45C:\Users\User\Documents\course\img\work_8.png133535391300000000 0
-55C:\Users\User\Documents\course\dist\icon_2.91a484c4.svg133542548864526029 0
-58C:\Users\User\Documents\course\dist\activebox.4dce4c2e.svg133542548864526029 0
-55C:\Users\User\Documents\course\dist\work_6.adfed816.png133542548864736037 0
-55C:\Users\User\Documents\course\dist\work_2.c5a44bc9.png133542548864766061 0
-55C:\Users\User\Documents\course\dist\work_4.26271e54.png133542548864766061 0
-53C:\Users\User\Documents\course\dist\index.672d4772.js133542548864766061 0
-54C:\Users\User\Documents\course\dist\course.3464ddca.js133542548864776069 0
-58C:\Users\User\Documents\course\dist\course.3464ddca.js.map133542548864896056 0
-55C:\Users\User\Documents\course\dist\icon_3.8b1658fd.svg133542548865456105 0
-55C:\Users\User\Documents\course\dist\work_1.98485b3c.png133542548865686124 0
-55C:\Users\User\Documents\course\dist\woman1.8383886a.png133542548865686124 0
-55C:\Users\User\Documents\course\dist\work_7.a7b88493.png133542548865706146 0
-52C:\Users\User\Documents\course\dist\img.4bd201fc.png133542548865966127 0
 54C:\Users\User\Documents\course\dist\index.8368275b.css133542550232766885 0
 58C:\Users\User\Documents\course\dist\index.8368275b.css.map133542550232796863 0
-46C:\Users\User\Documents\course\dist\index.html133542550374457158 0
+41C:\Users\User\Documents\course\.gitignore133542554953930503 0
+45C:\Users\User\Documents\course\scss\style.css133542550232157866 0
+55C:\Users\User\Documents\course\dist\icon_2.91a484c4.svg133542561565801207 0
+58C:\Users\User\Documents\course\dist\activebox.4dce4c2e.svg133542561565801207 0
+55C:\Users\User\Documents\course\dist\work_4.26271e54.png133542561565971221 0
+55C:\Users\User\Documents\course\dist\work_6.adfed816.png133542561565971221 0
+55C:\Users\User\Documents\course\dist\work_2.c5a44bc9.png133542561566001189 0
+54C:\Users\User\Documents\course\dist\index.1050fa94.css133542561566051202 0
+55C:\Users\User\Documents\course\dist\work_1.98485b3c.png133542561566051202 0
+55C:\Users\User\Documents\course\dist\woman1.8383886a.png133542561566061197 0
+55C:\Users\User\Documents\course\dist\work_7.a7b88493.png133542561566111219 0
+53C:\Users\User\Documents\course\dist\index.672d4772.js133542561566131196 0
+54C:\Users\User\Documents\course\dist\course.3464ddca.js133542561566131196 0
+58C:\Users\User\Documents\course\dist\index.1050fa94.css.map133542561566211204 0
+58C:\Users\User\Documents\course\dist\course.3464ddca.js.map133542561566281218 0
+52C:\Users\User\Documents\course\dist\img.4bd201fc.png133542561566411259 0
+55C:\Users\User\Documents\course\dist\icon_3.8b1658fd.svg133542561566621252 0
+46C:\Users\User\Documents\course\dist\index.html133542561566721248 0
