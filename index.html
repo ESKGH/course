@@ -7,7 +7,7 @@
 
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+  href="https://unpkg.com/swiper/swiper-bundle.min.css"
 />
 <script src="script.js"></script>
 <link rel="stylesheet" href="scss/style.css">
@@ -172,7 +172,6 @@ risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam qu
 
 <section class="slider" id="testimonials">
     <div class="swiper">
-          <!-- Slides -->
           <div class="swiper-slide"><img class="swiper-slide-img" src="img/slide1.png"></img>
             <div class="swiper-slide-text">
               <p>“Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Aenean eu leo quam...”</p>
@@ -192,14 +191,17 @@ risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam qu
             </div>
           </div>
         <!-- If we need pagination -->
-        <div class="swiper-pagination"></div>
+        <div class="swiper-pagination">
+        </div>
+        <div class="swiper-pagination">
+        </div>
       
         <!-- If we need navigation buttons -->
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>
+        <!-- <div class="swiper-button-prev"></div> -->
+        <!-- <div class="swiper-button-next"></div> -->
       
         <!-- If we need scrollbar -->
-        <div class="swiper-scrollbar"></div>
+        <!-- <div class="swiper-scrollbar"></div> -->
       </div>
 </section>
 
@@ -230,6 +232,15 @@ risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam qu
 </div>
 <div class="copyright"><p>Copyright © 2015 ActiveBox. All Rights ReservedMade with by Kamal Chaneman</p></div>
 </footer>
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js">
+  const swiper = new Swiper('.swiper-container', {
+    direction: 'horizontal',
+    loop: true,
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+  });
+</script>
 </body>
 </html>

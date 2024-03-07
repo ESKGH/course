@@ -361,6 +361,7 @@
   width: 100%;
   min-width: 0;
   height: 490px;
+  transition: all .3s;
   display: flex;
 }
 
@@ -407,6 +408,13 @@
   font-weight: 700;
   line-height: 15px;
   display: flex;
+}
+
+.swiper-pagination {
+  box-sizing: border-box;
+  border: 1px solid #7e5d6f;
+  width: 170px;
+  bottom: 0;
 }
 
 .download {
